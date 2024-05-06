@@ -1,4 +1,9 @@
 # Logs
+*pnpm-lock.yaml
+*package-lock.json
+*/.next
+
+*.DS_Store
 logs
 *.log
 npm-debug.log*
